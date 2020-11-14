@@ -1,0 +1,33 @@
+{
+    "name": "Light Owl",
+    "comment": "Light Owl for Tilix",
+    "foreground-color": "#403f53",
+    "background-color": "#fbfbfb",
+    "use-theme-colors": false,
+    "use-highlight-color": true,
+    "highlight-foreground-color": "#403f53",
+    "highlight-background-color": "#ededed",
+    "use-cursor-color": true,
+    "cursor-foreground-color": "#fbfbfb",
+    "cursor-background-color": "#403f53",
+    "use-badge-color": true,
+    "badge-color": "#403f53",
+    "palette": [
+        "#403F53",  
+        "#de3d3b", 
+        "#08916a",  
+        "#E0AF02", 
+        "#288ed7", 
+        "#D6438A", 
+        "#2AA298", 
+        "#ffffff", 
+        "#403F53", 
+        "#de3d3b", 
+        "#08916a", 
+        "#DAAA01", 
+        "#288ed7", 
+        "#D6438A", 
+        "#2AA298", 
+        "#ffffff"  
+    ]
+}
